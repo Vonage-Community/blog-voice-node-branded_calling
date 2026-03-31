@@ -14,6 +14,17 @@ This repo is intended to accompany the blog post on **Branded Calling with First
 - **Branding via environment variables** (`COMPANY_NAME`, `GREETING`)
 - **ngrok-friendly** via `PUBLIC_BASE_URL`
 
+## First Orion setup (minimal)
+
+This repo assumes you already have First Orion set up so your **Vonage number** is eligible to display branded calling information.
+
+- **Register / verify your business and numbers**
+  - Start here: https://firstorion.com/register-your-number/
+  - Customer portal: https://portal.firstorion.com/app/landing/
+- **Create a Branded Calling program**
+  - In the First Orion portal, create your Business / Business Unit, then create a Program (campaign) and assign your phone number(s) to it.
+  - Once the program is active, add your display name / image / call reason as needed.
+
 ## Getting started
 
 ### 1) Prerequisites
