@@ -14,7 +14,7 @@ This repo is intended to accompany the blog post on **Branded Calling with First
 - **Branding via environment variables** (`COMPANY_NAME`, `GREETING`)
 - **ngrok-friendly** via `PUBLIC_BASE_URL`
 
-## First Orion setup (minimal)
+## First Orion setup 
 
 This repo assumes you already have First Orion set up so your **Vonage number** is eligible to display branded calling information.
 
